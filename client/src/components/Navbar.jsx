@@ -35,7 +35,7 @@ export const Navbar = () => {
             <div className='text-white z-20 fixed min-w-full bg-gray-950'>
                 <ul className='md:flex hidden justify-center items-center gap-24 pt-4 pb-3 font-semibold text-xl'>
                 <Link to="/" className='flex fixed left-24 justify-center items-center titleT'>
-                        <MdOutlineBusinessCenter size={19} />  JOBLANE
+                        <MdOutlineBusinessCenter size={19} />  CAREER-BRIDGE
                     </Link>
 
                     <Link to="/" className='cool-link'>Home</Link>
@@ -68,7 +68,7 @@ export const Navbar = () => {
 
                 <div className='py-3 px-3 md:hidden justify-between items-center flex'>
                     <Link to="/" className='text-lg titleT flex justify-center items-center gap-1'>
-                        <MdOutlineBusinessCenter size={19} /> JOBLANE
+                        <MdOutlineBusinessCenter size={19} /> CAREER-BRIDGE
                     </Link>
                     <div className='flex justify-center items-center'>
                         <div className='pr-12'>

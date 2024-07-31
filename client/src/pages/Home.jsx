@@ -104,12 +104,12 @@ export const Home = () => {
 
 
         <>
-            <MetaData title="JobLane" />
+            <MetaData title="Career-Bridge" />
             <div className='min-h-screen md:px-20 px-3  pt-14 flex   text-white bg-gray-950'>
                 <div className='  w-full  flex  pt-28 flex-col justify-start  items-center gap-4'>
-
+<div className='md:text-8xl text-6xl titleT'>CAREER-BRIDGE</div>
                     <div className='flex md:flex-row flex-col items-center justify-center md:gap-10 gap-1'>
-                        <div className='md:text-8xl text-6xl titleT'>JOBLANE</div>
+                        
                         <div className=' flex justify-center items-center pt-1'>
                             <Link to="/jobs" className='font-semibold md:text-2xl text-lg blueCol  md:py-3 py-2 px-6 md:px-10 '>Browse Jobs</Link>
                         </div>
@@ -236,7 +236,7 @@ export const Home = () => {
                     <Testimonials />
                     
                     <div className="pt-[7rem] pb-[10rem] md:px-[14rem] px-[1rem]   text-center">
-                        <p>Discover the Power of Possibility with JobLane: Where Your Professional Journey Takes Flight, Guided by a Network of Diverse Opportunities!</p>
+                        <p>Discover the Power of Possibility with Career-Bridge: Where Your Professional Journey Takes Flight, Guided by a Network of Diverse Opportunities!</p>
                     </div>
 
 

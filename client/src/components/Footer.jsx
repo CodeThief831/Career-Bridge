@@ -41,7 +41,7 @@ export const Footer = () => {
           <div className="flex flex-col justify-center items-center pt-5">
             <p className="titleT text-2xl flex justify-center items-center">
               {" "}
-              <MdOutlineBusinessCenter /> JOBLANE
+              <MdOutlineBusinessCenter /> CAREER-BRIDGE
             </p>
             <p className="text-sm text-gray-300">
               Giving best opportunities to best peoples.
@@ -78,9 +78,9 @@ export const Footer = () => {
             <Link
               target="_blank"
               className="underline text-blue-400"
-              to="https://sujal-tangde.netlify.app/"
+              to="https://www.linkedin.com/in/saithilak83"
             >
-              Sujal Tangde
+              3SV
             </Link>
           </p>
           <p className="text-sm"> &copy;Copyright, All rights reserved.</p>
